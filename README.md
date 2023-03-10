@@ -11,4 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+<img src="https://d32ijn7u0aqfv4.cloudfront.net/wp/wp-content/uploads/raw/bitcoin-cryptocurrency-vault-safelock_SOIN20003_905168316_is_1560x880.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 # ECommerce
